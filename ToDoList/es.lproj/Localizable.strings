@@ -1,0 +1,103 @@
+/* No comment provided by engineer. */
+"‼️ High Priority: \n" = "‼️ Alta prioridad: \n";
+
+/* No comment provided by engineer. */
+"‼️🧨 Top Priority: \n" = "‼️🧨 Máxima prioridad: \n";
+
+/* No comment provided by engineer. */
+"%@ @ %@" = "%@ @ %@";
+
+/* No comment provided by engineer. */
+"✓ Date ↑" = "✓ Fecha ↑";
+
+/* No comment provided by engineer. */
+"✓ Date ↓" = "✓ Fecha ↓";
+
+/* No comment provided by engineer. */
+"✓ None" = "✓ Sin";
+
+/* No comment provided by engineer. */
+"✓ Priority ↑" = "✓ Prioridad ↑";
+
+/* No comment provided by engineer. */
+"✓ Priority ↓" = "✓ Prioridad ↓";
+
+/* No comment provided by engineer. */
+"❗️ Be carefull: \n" = "❗️ Atención: \n";
+
+/* No comment provided by engineer. */
+"Category" = "Categorías";
+
+/* No comment provided by engineer. */
+"Content" = "Descripción";
+
+/* No comment provided by engineer. */
+"Create" = "Crear";
+
+/* No comment provided by engineer. */
+"Date" = "Fecha";
+
+/* No comment provided by engineer. */
+"Date ↓↑" = "Fecha ↓↑";
+
+/* No comment provided by engineer. */
+"Delete ToDo" = "Borrar ToDo";
+
+/* No comment provided by engineer. */
+"Details" = "Detalles";
+
+/* No comment provided by engineer. */
+"Done" = "Terminado";
+
+/* No comment provided by engineer. */
+"Edit" = "Cambiar";
+
+/* No comment provided by engineer. */
+"Edit ToDo" = "Cambiar ToDo";
+
+/* No comment provided by engineer. */
+"In progress" = "En curso";
+
+/* No comment provided by engineer. */
+"New ToDo" = "Nueva ToDo";
+
+/* No comment provided by engineer. */
+"None" = "Sin";
+
+/* No comment provided by engineer. */
+"Priority" = "Prioridad";
+
+/* No comment provided by engineer. */
+"Priority ↑↓" = "Prioridad ↑↓";
+
+/* No comment provided by engineer. */
+"Reminder: \n" = "Recordatorio: \n";
+
+/* No comment provided by engineer. */
+"Status" = "Estatuto";
+
+/* No comment provided by engineer. */
+"Time" = "Hora";
+
+/* No comment provided by engineer. */
+"Title" = "Titulo";
+
+/* No comment provided by engineer. */
+"ToDo" = "ToDo";
+
+/* No comment provided by engineer. */
+"You doesn't have any ToDo yet..." = "No tienes ToDo ahora...";
+
+"Home" = "Casa";
+
+"Work" = "Trabajo";
+
+"Private" = "Privado";
+
+"Hobbies" = "Aficiones";
+
+"Low" = "Baja";
+
+"Average" = "Media";
+
+"High" = "Alta";

@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "ToDoList";
+
+/* Privacy - Calendars Usage Description */
+"NSCalendarsUsageDescription" = "Nous souhaitons avoir accès à ton calendrier pour ajouter les ToDo";
+
